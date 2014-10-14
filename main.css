@@ -6,4 +6,19 @@
     background-color:white;
     border:1px solid black;
   }
-
+  
+  h1{padding: 10px;}
+  
+  header{border-bottom: 2px solid navy;}
+  
+  section{
+    height: 400px;
+    width: 600px;
+    float: left;
+    border-right: 2px solid navy;
+  }
+  
+  aside{
+    width: 360px;
+    float: right;
+  }
