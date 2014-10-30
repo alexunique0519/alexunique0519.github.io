@@ -294,9 +294,11 @@ blockquote {
   padding: 0 0 0 30px;
 }
 
+/*for the nav bars*/
 ul li {
-  list-style: disc inside;
-  padding-left: 20px;
+  list-style-type: square;
+  padding: 0 20px;
+  display: inline;
 }
 
 ol li {
