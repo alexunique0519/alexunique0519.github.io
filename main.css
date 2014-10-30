@@ -11,4 +11,8 @@
   
   header{border-bottom: 2px solid navy;}
   
+  nav ul{
+    display: inline;
+  }
+  
   
